@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Awesome Presentation</title>
+    <title>Pycon India 2017</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <style type="text/css">
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
@@ -14,6 +14,24 @@
         font-weight: normal;
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      img .img-right-half {
+        right: 0;
+        width: 50%;
+        height: auto;
+      }
+      .remark-slide-content {
+        color: #ded754;
+        background: #253552;
+      }
+      a {
+        color: #ded754;
+      }
+      p ul {
+        font-size: 200%;
+      }
+      .pp > img{
+        width: 25%;
+      }
     </style>
   </head>
   <body>
@@ -21,26 +39,211 @@
 
 class: center, middle
 
-# My Awesome Presentation
+# Building microservices with firefly!
 
 ---
 
-# Agenda
+# About Me
 
-1. Introduction
-2. Deep-dive
-3. ...
+### Nabarun Pal
+- Final Year Undergraduate @IITRoorkee
 
-[NOTE]: Note that you need active internet connection to access remark.js script file
+- Software Engineering Intern @rorodata
+
+- Builds autonomous robots @TeamRoboconIITR
+
+- Sources of my dopamine = [Code, Kindle, Food, (Sugar, Caffeine)]
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+.footnote.right.bottom[www.nabarun.in<br/>github.com/palnabarun<br/>twitter.com/nabar0n]
+
+<!-- .right[.pp[ -->
+<!-- ![Nabarun Pal](../../assets/css/images/pp2.jpeg)]] -->
+
 ---
 
-# Introduction
+class: center, middle
+
+# The Problem
+
+???
+exposing functions as API's for others to use
+
+---
+
+# But why?
+
+--
+
+- loose coupling
+
+--
+
+- use it in a different environment
+
+--
+
+- run functions on different compute resources
+
+---
+
+# Use Cases
+
+--
+
+- Deploy machne learning models
+
+--
+
+- Run functional utilities remotely
+
+--
+
+- Build microservices
+
+---
+
+# Challenges
+
+--
+
+- Need to writing a web application
+
+--
+
+- Requirement of a client library
+
+--
+
+- How would you authenticate users?
+
+--
+
+- How do you validate the data sent by users?
+
+---
+
+
+
+---
+
+# Why firefly?
+
+--
+
+- 
+
+--
+
+- RPC like functionality
+
+--
+
+- 
+
+-- 
+
+- It puts your python functions on steroids
+
+---
+
+# Under the hood
+
+--
+
+- Client invokes a function
+
+--
+
+- Client processes the inputs
+
+--
+
+- Client makes a request to the appropriate endpoint on the server
+
+--
+
+- Server checks whether the endpoint requested is exposed
+
+--
+
+- Server processes the request and validates the inputs
+
+--
+
+- The function is then called passing in the inputs
+
+--
+
+- Function result is processed to either JSON/binary stream
+
+--
+
+- Server responds to the client with appropriate status code and data
+
+---
+
+# Install
+
+Release version:
+```bash
+$ pip install firefly-python
+```
+
+Development version:
+```bash
+$ git clone https://github.com/rorodata/firefly
+$ cd firefly
+$ pip install -e .
+```
+
+---
+
+class: center, middle
+
+# Code Examples
+
+???
+
+- firefly.yml
+
+---
+
+class: center, middle
+
+# Questions?
+
+---
+
+# References
+
+https://firefly-python.readthedocs.io
+
+https://github.com/rorodata/firefly
+
+https://github.com/rorodata/rorolite
+
+---
+
+class: center, middle
+
+# Feedback
+http://bit.ly/pyconfeedback
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript">
     </script>
     <script type="text/javascript">
-      var slideshow = remark.create();
+      var slideshow = remark.create({
+        ratio: '16:9',
+        slideNumberFormat: '%current%'
+      });
     </script>
   </body>
 </html>
