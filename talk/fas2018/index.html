@@ -42,6 +42,8 @@ class: center, middle
 
 # Building microservices with firefly!
 
+### FOSSASIA Summit 2018
+
 ---
 
 # About Me
@@ -52,6 +54,8 @@ class: center, middle
 - Software Engineering Intern @rorodata
 
 - Builds autonomous robots @TeamRoboconIITR
+
+- Conducts communnity activities on robotics @MaRSiitr
 
 - Sources of my dopamine -> [Code, Kindle, Food, (Sugar, Caffeine)]
 
@@ -75,6 +79,7 @@ class: center, middle
 
 ???
 exposing functions as API's for others to use
+too much headache. learn web framework
 
 ---
 
@@ -98,7 +103,7 @@ exposing functions as API's for others to use
 
 --
 
-- Deploy machne learning models
+- Deploy machine learning models
 
 --
 
@@ -114,7 +119,7 @@ exposing functions as API's for others to use
 
 --
 
-- Need to writing a web application
+- Writing a web application
 
 --
 
@@ -255,9 +260,7 @@ The client supports any JSON-friendly data type or file objects.
 
 # Config File
 
-
 firefly includes support for specifying functions and paths from config files.
-
 
 ```yaml
 # firefly.yml
@@ -266,9 +269,6 @@ functions:
   square:
     path: "/square"
     function: "funcs.square"
-  cube:
-    path: "/cube"
-    function: "funcs.cube"
   ...
 ```
 
@@ -319,8 +319,8 @@ from sklearn.externals import joblib
 
 clf = joblib.load('fisheriris.pkl')
 
-def predict(a):
-    predicted = clf.predict(a)    # predicted is 1x1 numpy array
+def predict(features):
+    predicted = clf.predict(features)    # predicted is 1x1 numpy array
     return int(predicted[0])
 ```
 
@@ -380,14 +380,16 @@ Using the client for accessing the remote function:
 
 ---
 
-class: center, middle
-
 # Side effects
 
-???
-- Microservices
+- Building microservices
+
 - rorocloud
+
 - rorolite
+
+
+.footnote.right.bottom[https://github.com/rorodata/rorolite]
 
 ---
 
@@ -410,7 +412,6 @@ class: center, middle
 - Input Validation using Python 3 Type Annotations
 - Support for NumPy arrays
 - API browser 
-- JavaScript Client library
 
 ---
 
