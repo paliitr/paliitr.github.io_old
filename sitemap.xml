@@ -13,13 +13,18 @@
   </url>
   
   <url>
-    <loc>https://www.nabarun.in/tags/about/</loc>
+    <loc>https://www.nabarun.in/test/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nabarun.in/categories/about/</loc>
     <lastmod>2018-05-01T23:04:15+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.nabarun.in/categories/about/</loc>
+    <loc>https://www.nabarun.in/tags/about/</loc>
     <lastmod>2018-05-01T23:04:15+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -51,6 +56,12 @@
   <url>
     <loc>https://www.nabarun.in/talks/</loc>
     <lastmod>2018-05-01T23:04:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nabarun.in/test/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
