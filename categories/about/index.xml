@@ -6,10 +6,21 @@
     <description>Recent content in About on Nabarun Pal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 May 2018 20:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 23:04:15 +0530</lastBuildDate>
     
 	<atom:link href="https://www.nabarun.in/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talks</title>
+      <link>https://www.nabarun.in/talks/</link>
+      <pubDate>Tue, 01 May 2018 23:04:15 +0530</pubDate>
+      
+      <guid>https://www.nabarun.in/talks/</guid>
+      <description>This is a listing of the talks by me given in conferences.
+2018  FOSSAsia Summit - Building Microservices with firefly 
+2017  PyCon India - Building Microservices with firefly PyData Delhi - Building Camera Based Intelligent Applications</description>
+    </item>
     
     <item>
       <title>About Me</title>
