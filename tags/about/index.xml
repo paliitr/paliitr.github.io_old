@@ -6,10 +6,21 @@
     <description>Recent content in About on Nabarun Pal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 May 2018 23:04:15 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 19 May 2018 23:04:15 +0530</lastBuildDate>
     
 	<atom:link href="https://www.nabarun.in/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://www.nabarun.in/cv/</link>
+      <pubDate>Sat, 19 May 2018 23:04:15 +0530</pubDate>
+      
+      <guid>https://www.nabarun.in/cv/</guid>
+      <description>Below is a copy of my Curriculum Vitae last updated on 4/5/2018. (I know it is a bit old and I plan to update it soon)
+You can also reach out to me here.
+It seems like your browser doesn&amp;rsquo;t support PDF viewers. My CV is also available here</description>
+    </item>
     
     <item>
       <title>Talks</title>

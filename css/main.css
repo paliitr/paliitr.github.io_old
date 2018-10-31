@@ -62,7 +62,7 @@ html
 {
     overflow: auto;
 
-    max-width: 680px;
+    max-width: 1000px;
     padding: 0 15px;
 }
 .content
@@ -211,9 +211,9 @@ h6.meta
 
     color: #bbb;
 }
-section.meta {
-    margin-top: 
-}
+/* section.meta {
+    margin-top:
+} */
 .powered
 {
     font-family: 'Roboto', sans-serif;
