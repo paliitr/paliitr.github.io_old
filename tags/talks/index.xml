@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Nabarun Pal</title>
+    <link>https://www.nabarun.in/tags/talks/</link>
+    <description>Recent content in Talks on Nabarun Pal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2018 23:04:15 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.nabarun.in/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks</title>
+      <link>https://www.nabarun.in/talks/</link>
+      <pubDate>Tue, 01 May 2018 23:04:15 +0530</pubDate>
+      
+      <guid>https://www.nabarun.in/talks/</guid>
+      <description>This is a listing of the talks by me given in conferences.
+2018  FOSSAsia Summit - Building Microservices with firefly 
+2017  PyCon India - Building Microservices with firefly PyData Delhi - Building Camera Based Intelligent Applications</description>
+    </item>
+    
+  </channel>
+</rss>
