@@ -17,7 +17,7 @@
       <pubDate>Sat, 19 May 2018 23:04:15 +0530</pubDate>
       
       <guid>https://www.nabarun.in/cv/</guid>
-      <description>Below is a copy of my Curriculum Vitae last updated on 02/09/2019.
+      <description>Below is a copy of my Curriculum Vitae last updated on 26/09/2019.
 You can also reach out to me here.
 It seems like your browser doesn&amp;rsquo;t support PDF viewers. My CV is also available here</description>
     </item>
@@ -29,9 +29,22 @@ It seems like your browser doesn&amp;rsquo;t support PDF viewers. My CV is also 
       
       <guid>https://www.nabarun.in/talks/</guid>
       <description>This is a listing of the talks by me given in conferences.
-2019  PyCon India - Serverless Data Science: Scaling algorithms made simple (PROPOSED) -- AWS Community Day Bengaluru - Making Lambda simpler for data scientists (FUTURE) 
+2019  PyCon India - Serverless Data Science: Scaling algorithms made simple (PROPOSED) -- AWS Community Day Bengaluru - Making Lambda simpler for data scientists 
 2018  FOSSAsia Summit - Building Microservices with firefly 
 2017  PyCon India - Building Microservices with firefly PyData Delhi - Building Camera Based Intelligent Applications</description>
+    </item>
+    
+    <item>
+      <title>Setup</title>
+      <link>https://www.nabarun.in/setup/</link>
+      <pubDate>Tue, 01 May 2018 23:04:10 +0530</pubDate>
+      
+      <guid>https://www.nabarun.in/setup/</guid>
+      <description> What do I use now? My primary laptop is a ThinkPad T480 running Manjaro with i3 as the window manager. The laptop runs most of my daily workloads with ease. At home, I hook it up with a 22&amp;rdquo; LG IPS Panel as a secondary panel.
+I use [OnePlus 6T]()
+https://www.amazon.sin/gp/product/B071LDM6L8/
+https://www.amazon.in/Bose-Quiet-Comfort-Wireless-Headphone/dp/B0756CYWWD
+What is in the pipeline? </description>
     </item>
     
     <item>
