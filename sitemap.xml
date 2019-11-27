@@ -3,9 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.nabarun.in/tags/about/</loc>
+    <lastmod>2018-05-19T23:04:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nabarun.in/categories/about/</loc>
+    <lastmod>2018-05-19T23:04:15+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.nabarun.in/categories/</loc>
     <lastmod>2018-05-19T23:04:15+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -14,33 +23,18 @@
   </url>
   
   <url>
+    <loc>https://www.nabarun.in/tags/cv/</loc>
+    <lastmod>2018-05-19T23:04:15+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.nabarun.in/</loc>
     <lastmod>2018-05-19T23:04:15+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.nabarun.in/tags/</loc>
     <lastmod>2018-05-19T23:04:15+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nabarun.in/categories/about/</loc>
-    <lastmod>2018-05-19T23:04:15+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nabarun.in/tags/about/</loc>
-    <lastmod>2018-05-19T23:04:15+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nabarun.in/tags/cv/</loc>
-    <lastmod>2018-05-19T23:04:15+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -51,7 +45,6 @@
   <url>
     <loc>https://www.nabarun.in/tags/talks/</loc>
     <lastmod>2018-05-01T23:04:15+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
