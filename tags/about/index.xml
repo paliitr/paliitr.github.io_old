@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Nabarun Pal</title>
@@ -18,8 +18,7 @@
       
       <guid>https://www.nabarun.in/cv/</guid>
       <description>Below is a copy of my Curriculum Vitae last updated on 26/09/2019.
-You can also reach out to me here.
-It seems like your browser doesn&amp;rsquo;t support PDF viewers. My CV is also available here</description>
+You can also reach out to me here.</description>
     </item>
     
     <item>
@@ -28,10 +27,7 @@ It seems like your browser doesn&amp;rsquo;t support PDF viewers. My CV is also 
       <pubDate>Tue, 01 May 2018 23:04:15 +0530</pubDate>
       
       <guid>https://www.nabarun.in/talks/</guid>
-      <description>This is a listing of the talks by me given in conferences.
-2019  PyCon India - Serverless Data Science: Scaling algorithms made simple (PROPOSED) -- AWS Community Day Bengaluru - Making Lambda simpler for data scientists 
-2018  FOSSAsia Summit - Building Microservices with firefly 
-2017  PyCon India - Building Microservices with firefly PyData Delhi - Building Camera Based Intelligent Applications</description>
+      <description>This is a listing of the talks by me given in conferences.</description>
     </item>
     
     <item>
