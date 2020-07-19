@@ -1,2 +1,1 @@
-# Experimental Landing Page based on Hugo
-
+# Landing Page redirector to new one
